@@ -71,8 +71,8 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.4023308052606!2d-61.581367900000004!3d-32.8081032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95c9e9bf85084001%3A0xe95051ce15c3f496!2sLa%20Fermina%20Club%20De%20Campo.!5e0!3m2!1ses-419!2sar!4v1715292113659!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
-        
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.241119828662!2d-62.858251024964545!3d-33.15529618245632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cecbfb63f10c7d%3A0x2053aa0f57648792!2sCENTRO%20DE%20JUBILADOS%20Y%20PENSIONADOS%20DE%20LABORDE!5e0!3m2!1ses-419!2sar!4v1717789234037!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        'Podes ampliar el mapa',
         
     })
   });
